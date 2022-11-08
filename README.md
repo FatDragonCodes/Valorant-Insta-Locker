@@ -12,20 +12,20 @@ P: Sets confirm button locations
 M: Enables/Disables the instalock script
 
 # Setup ⚙️
-[1] First lets make sure valorant is running in windowed fulled screen mode (this is required to allow us to search for images on screen)
-[2] Load a private game so we can setup coords
-[3] Make sure the coords are unlocked using the I toggle key.
-[4] Hover the agent you wish to instalock and press O. Once confirmed press I again to relock coords to prevent accidental changes
-[5] Now press U to begin saving config
-[6] Type save and press enter
-[7] Now enter the config name, your config should now have saved.
-[8] You can load this by pressing U, then typing load,  followed by the config name.
+[1] First lets make sure valorant is running in windowed fulled screen mode (this is required to allow us to search for images on screen)\
+[2] Load a private game so we can setup coords\
+[3] Make sure the coords are unlocked using the I toggle key.\
+[4] Hover the agent you wish to instalock and press O. Once confirmed press I again to relock coords to prevent accidental changes\
+[5] Now press U to begin saving config\
+[6] Type save and press enter\
+[7] Now enter the config name, your config should now have saved.\
+[8] You can load this by pressing U, then typing load,  followed by the config name.\
 - Video tut can be realeased if needed.
 
 # FAQ 📙
-**Will This Get Me Banned?**
-- No, this controls the users mouse input and doesnt interfere with any game memory/integrity. 
-**Can I Change Keybinds**
-- Currently there is no way to edit this using the program itself. Although you are able to manually update this by changing the appropriate values in the agents.json file
-**Why does the program require admin esc?**
-- We require admin esc to ensure we can block user mouse inputs whilst attempting to insta lock, this prevents user error causing miss clicks.
+**Will This Get Me Banned?**\
+- No, this controls the users mouse input and doesnt interfere with any game memory/integrity. \
+**Can I Change Keybinds**\
+- Currently there is no way to edit this using the program itself. Although you are able to manually update this by changing the appropriate values in the agents.json file \
+**Why does the program require admin esc?** \
+- We require admin esc to ensure we can block user mouse inputs whilst attempting to insta lock, this prevents user error causing miss clicks.\
