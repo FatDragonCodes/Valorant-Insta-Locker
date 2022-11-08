@@ -1,8 +1,8 @@
 # Fat Dragon Valorant InstaLocker 🐉
-Simple program created using image recognition to detect when we are selecting an agent and lock a agent using user defined coordinates. 
+Simple program created using image recognition to detect when we are selecting an agent and lock a agent using user defined coordinates. This script is still in the early stages, meaning you will potentially find bugs or issues. Please submit these issues via the issues tab on this repository. I will fix these issues when i have free time. 
 
 # Disclaimer ⚠️
-I am in no way a professional coder, i do this in my free time for a challenge. I'm entirely self taught, any feedback and or improvements are greatly appreciated. This script was designed for personal usage, but a few friends recommended I share it. This script controls your mouse movement, meaning it should not result in a Anti-Cheat ban - with this in mind please use this at your own risk. 
+I am in no way a professional developer, i do this in my free time for a challenge. I'm entirely self taught, any feedback and or improvements are greatly appreciated. This script was designed for personal usage, but a few friends recommended I share it. This script controls your mouse movement, meaning it should not result in a Anti-Cheat ban - with this in mind please use this at your own risk. 
 
 # Default Binds ⌨️ 
 U: Allows user to load, delete and save configs. Prompts will appear on the console with steps.\
