@@ -5,10 +5,10 @@ Simple program created using image recognition to detect when we are selecting a
 I am in no way a professional coder, i do this in my free time for a challange. Im entirely self taught, any feedback and or improvemnts are greatly appriciated. This script was designed for personal usage, but a few frends recommended i share it. This script controls your mouse movement, meaning it should not result in a Anti-Cheat ban - with this in mind please use this at your own risk. 
 
 # Defualt Binds ⌨️ 
-U: Allows user to load, delete and save configs. Prompts will appear on the console with steps.
-I: Unlocks the active coords to allow you to set agent/confirm button coord locations 
-O: Sets Agent coord locations
-P: Sets confirm button locations
+U: Allows user to load, delete and save configs. Prompts will appear on the console with steps.\
+I: Unlocks the active coords to allow you to set agent/confirm button coord locations \
+O: Sets Agent coord locations\
+P: Sets confirm button locations\
 M: Enables/Disables the instalock script
 
 # Setup ⚙️
