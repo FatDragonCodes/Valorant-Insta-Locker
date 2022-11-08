@@ -24,8 +24,8 @@ M: Enables/Disables the instalock script
 
 # FAQ 📙
 **Will This Get Me Banned?**
-- No, this controls the users mouse input and doesnt interfere with any game memory/integrity. 
-\**Can I Change Keybinds**
-- Currently there is no way to edit this using the program itself. Although you are able to manually update this by changing the appropriate values in the agents.json file 
-\**Why does the program require admin esc?** 
+- No, this controls the users mouse input and doesnt interfere with any game memory/integrity. \
+**Can I Change Keybinds**
+- Currently there is no way to edit this using the program itself. Although you are able to manually update this by changing the appropriate values in the agents.json file \
+**Why does the program require admin esc?** 
 - We require admin esc to ensure we can block user mouse inputs whilst attempting to insta lock, this prevents user error causing miss clicks.
