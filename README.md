@@ -9,7 +9,8 @@ U: Allows user to load, delete and save configs. Prompts will appear on the cons
 I: Unlocks the active coords to allow you to set agent/confirm button coord locations \
 O: Sets Agent coord locations\
 P: Sets confirm button locations\
-M: Enables/Disables the instalock script
+M: Enables/Disables the instalock script\
+INSERT: opens and closes the clicker
 
 # Setup ⚙️
 [1] First lets make sure valorant is running in windowed full screen mode (this is required to allow us to search for images on screen)\
