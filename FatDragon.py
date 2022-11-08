@@ -1,9 +1,6 @@
-try:
-    import keyboard, pyautogui, threading, time, time, os, ctypes, json, win32gui, win32con, sys
-    from colorama import Fore
-    from ctypes import windll
-except:
-    os.system("pip install keyboard pyautogui pywin32, colorama")
+import keyboard, pyautogui, threading, time, time, os, ctypes, json, win32gui, win32con, sys
+from colorama import Fore
+from ctypes import windll
 
 Active = False
 Locked = False
